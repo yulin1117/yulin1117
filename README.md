@@ -1,6 +1,6 @@
 # Hi, I'm Yu-Ling Zhong (鍾玉凌) 👋
 ### 🎓 About Me
-- 🔭 **Current Focus**: Pursuing a Master's in CS at **TU Dresden**. Dedicated to bridging the gap between academic research and scalable **AI Applications**.
+- 🔭 **Current Focus**: Pursuing a Master's in CS at **TU Dresden**. I am interested in Deep learning, AI applications, and LLM.
 - 🧠 **Research Interests**: 
     - **Large Language Models**: Specialized in **PEFT (LoRA/QLoRA)** and domain-specific fine-tuning.
     - **RAG Optimization**: Enhancing retrieval accuracy and context injection for data-driven systems.
@@ -31,7 +31,7 @@
 ---
 
 ### 📂 Recent Projects
-- **[Llama-8B Cultural RAG]** - Fine-tuning Llama 8B using LoRA and implementing RAG for specialized cultural databases.
+- **[LLM_cultral_qa]** - Fine-tuning Llama 8B using LoRA and implementing RAG for specialized cultural databases.
 - **[Intersection Recognition]** - CNN-based pipeline for identifying high-risk intersections using satellite imagery.
 - **[Human Mobility KNN]** - High-efficiency trajectory prediction algorithm.
 
