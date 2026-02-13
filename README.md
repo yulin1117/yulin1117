@@ -12,7 +12,7 @@
 *I am passionate about solving real-world problems through predictive modeling.*
 
 - **[ACM Digital Library]** [Using the Temporal-Trajectory-based KNN to Predict Human Mobility Patterns](https://dl.acm.org/doi/10.1145/3681771.3699913)
-    - Ranked **Top 14 / 100** globally in the Human Mobility Prediction Challenge 2024.
+    - Ranked **Top 10 / 100** globally in the Human Mobility Prediction Challenge 2024.
 - **[IEEE-ICASI 2025](https://drive.google.com/file/d/1WK_hJoQqMLxRfMGdj26BNfyQqKAI6WBa/view)** *Personalized Travel Recommendation Systems*
     - Proposed an N-gram-based system to solve the cold-start problem in tourism.
 - **[IEEE-ICASI 2025](https://drive.google.com/file/d/1Ly9as_ptBt9AKn1sjf9creww3iCSkNA7/view)** *Predictive Modeling of Traffic Accidents in Taiwan*
